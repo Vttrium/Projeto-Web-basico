@@ -124,6 +124,11 @@ ul li a:hover {
     border: 1.5px solid var(--text-color);
 }
 
+#Professor {
+    text-align: center;
+    margin-top: 1rem;
+}
+
 #social-links {
     display: flex;
     padding: 24px 0;
