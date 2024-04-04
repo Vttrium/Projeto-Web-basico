@@ -7,8 +7,8 @@ function toggleMode() {
 
     if(html.classList.contains("light")) {
         img.setAttribute("alt", "Avatar irado")
-        img.setAttribute("src", "./assets/")
+        img.setAttribute("src", "./assets/simple.jpg")
     } else {
-        img.setAttribute("src", "./assets/")
+        img.setAttribute("src", "./assets/blank.jpg")
     }
 }
